@@ -9,8 +9,6 @@ It is scriptable and customizable using Lua, and can be used to orchestrate what
 - Managing imports
 - And so on
 
-There is also a community Discord where you can contact me for help, suggestions, or just to hang out. [Link.](https://discord.gg/M4KXP9a)
-
 ## Quick Start
 
 Ceres can be used with pure Lua, or with TypeScript using a [TypeScript to Lua transpiler](https://github.com/TypeScriptToLua/TypeScriptToLua). There are template repositories for both.
